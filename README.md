@@ -135,3 +135,8 @@ If you want to run tests locally go to `phpunit.xml` file in root directory and 
 Then as normally run command `./vendor/bin/phpunit`.<br><br>
 <small>Remember to change that value back for `testing` when you push repo to github, otherwize your commit test will
  fail.</small>
+ 
+ ```$xslt
+auto generation of models, controllers, resources and routes
+https://labs.infyom.com/laravelgenerator/docs/7.0/installation
+```
